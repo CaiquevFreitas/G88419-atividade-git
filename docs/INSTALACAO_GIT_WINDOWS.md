@@ -70,3 +70,10 @@ Após a instalação, você pode abrir o Git Bash clicando no ícone do Git Bash
 Verificar a Versão do Git:
 
 No terminal do Git Bash, digite o seguinte comando para verificar se o Git foi instalado corretamente: git --version
+
+Passo 5: Configurar o Git
+Configurar o Nome e Email:
+
+Antes de começar a usar o Git, você deve configurar seu nome e endereço de email. No Git Bash, execute os seguintes comandos:
+git config --global user.name "Seu Nome"
+git config --global user.email "seu.email@example.com"
