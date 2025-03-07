@@ -37,3 +37,27 @@ Na tela de seleção de componentes, você pode escolher quais componentes desej
 Escolher o Editor Padrão:
 
 Você será solicitado a escolher um editor de texto padrão para o Git. O padrão é o Vim, mas você pode escolher outro editor como o Notepad++ ou o Visual Studio Code. Clique em "Next".
+
+Ajustar o PATH:
+
+Na tela de ajuste do PATH, escolha a opção "Git from the command line and also from 3rd-party software". Isso permitirá que você use o Git tanto no terminal quanto em ferramentas de terceiros. Clique em "Next".
+
+Escolher o Transporte HTTPS:
+
+Na tela de escolha do transporte HTTPS, selecione a opção "Use the OpenSSL library". Isso permitirá que o Git use o protocolo HTTPS para se conectar a repositórios remotos. Clique em "Next".
+
+Configurar o Final de Linha:
+
+Na tela de configuração do final de linha, escolha a opção "Checkout Windows-style, commit Unix-style line endings". Isso é recomendado para a maioria dos usuários do Windows. Clique em "Next".
+
+Configurar o Terminal:
+
+Na tela de configuração do terminal, escolha "Use MinTTY (the default terminal of MSYS2)". Isso fornecerá uma experiência de terminal mais moderna. Clique em "Next".
+
+Configurar Opções Extras:
+
+Na tela de opções extras, você pode deixar as opções padrão marcadas. Clique em "Next".
+
+Instalar:
+
+Finalmente, clique em "Install" para iniciar a instalação. O processo pode levar alguns minutos.
