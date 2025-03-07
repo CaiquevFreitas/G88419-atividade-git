@@ -61,3 +61,12 @@ Na tela de opções extras, você pode deixar as opções padrão marcadas. Cliq
 Instalar:
 
 Finalmente, clique em "Install" para iniciar a instalação. O processo pode levar alguns minutos.
+
+Passo 4: Verificar a Instalação
+Abrir o Git Bash:
+
+Após a instalação, você pode abrir o Git Bash clicando no ícone do Git Bash no menu Iniciar.
+
+Verificar a Versão do Git:
+
+No terminal do Git Bash, digite o seguinte comando para verificar se o Git foi instalado corretamente: git --version
