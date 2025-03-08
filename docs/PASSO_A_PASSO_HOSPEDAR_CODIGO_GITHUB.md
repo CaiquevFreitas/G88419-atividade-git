@@ -94,4 +94,3 @@ Após o comando *push*, acesse o seu repositório no GitHub e verifique se os ar
 
 ## 6. Confirmar a Atualização e Compartilhar o Link
 Após garantir que tudo foi feito corretamente no repositório GitHub, compartilhe o link do repositório no **Classroom** (ou conforme as instruções do professor).
-
